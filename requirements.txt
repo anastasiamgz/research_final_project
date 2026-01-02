@@ -6,3 +6,5 @@ dotenv
 plotly
 pyarrow
 streamlit
+openpyxl
+xlrd
